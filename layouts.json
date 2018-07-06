@@ -1,0 +1,72 @@
+{
+	"prepa-m-definition": [
+		"Nom",
+		"Hypothèses générales",
+		"Définition",
+		"Exemple(s)",
+		"Metadata",
+		"Hors programme"
+	],
+	"prepa-m-theoreme": [
+		"Nom du théorème",
+		"Hypothèses générales",
+		"Hypothèses",
+		"Condition nécessaire",
+		"Condition suffisante",
+		"Equivalence",
+		"Conclusion",
+		"Metadata",
+		"Hors programme"
+	],
+	"prepa-m-propriete": [
+		"Hypothèses générales",
+		"Hypothèses",
+		"Condition nécessaire",
+		"Condition suffisante",
+		"Equivalence",
+		"Conclusion",
+		"Metadata",
+		"Hors programme"
+	],
+	"prepa-m-methode": [
+		"Problème",
+		"Hypothèses générales",
+		"Résolution",
+		"Metadata",
+		"Hors programme"
+	],
+	"prepa-m-formule": [
+		"Hypothèses générales",
+		"Formule gauche",
+		"Formule droite",
+		"Metadata",
+		"Hors programme"
+	],
+	"prepa-pc-definition": [
+		"Nom",
+		"Définition",
+		"Exemple(s)",
+		"Metadata",
+		"Hors programme"
+	],
+	"prepa-pc-loi": [
+		"Nom de la loi",
+		"Hypothèses",
+		"Formulation",
+		"Equation",
+		"Metadata",
+		"Hors programme"
+	],
+	"prepa-pc-equation": [
+		"Nom",
+		"Equation",
+		"Metadata",
+		"Hors programme"
+	],
+	"prepa-pc-constante": [
+		"Nom",
+		"Valeur",
+		"Metadata",
+		"Hors programme"
+	]
+}
